@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205054595184",
+    "firebase_url": "https://au-spark-5.firebaseio.com",
+    "project_id": "au-spark-5",
+    "storage_bucket": "au-spark-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205054595184:android:84ca306f0e8cafa7",
+        "android_client_info": {
+          "package_name": "com.example.prutc.autramkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205054595184-0kmgge5em5cohuj2jppf557i662cm4nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtxk8NuDFTnkbmKnziBrSxNsh-TFcD5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
